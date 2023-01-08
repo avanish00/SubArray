@@ -1,6 +1,6 @@
 # SubArray
 
-iven an array arr[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} of size 10. Find whether there exists a sub-array of size n and sum s, where n and s both are user input values.
+Given an array arr[10] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10} of size 10. Find whether there exists a sub-array of size n and sum s, where n and s both are user input values.
 
 Print YES if there exists a subarray of size n and sum s in the array arr else print NO
 
